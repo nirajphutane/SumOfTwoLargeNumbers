@@ -4,6 +4,15 @@ Given two numbers as strings. The numbers may be very large (may not fit in long
 
 Examples: 
 
+Input  :
+
+number1 = "999", 
+         
+number2 =    "1"
+
+Addition : 7780887733332222
+
+
 Input  : 
 
 number1 = "3333311111111111" 
@@ -26,13 +35,17 @@ Addition : 7780887733332222
 
 1))
 
-![Screenshot 2022-10-12 at 11 50 02 AM](https://user-images.githubusercontent.com/25427227/195265314-a94e57a0-a67e-43e3-972f-a72edb8143e1.png)
-
-
+![Screenshot 2022-10-12 at 11 58 19 AM](https://user-images.githubusercontent.com/25427227/195266705-b542b6a4-d978-40f8-a819-080df7f3743f.png)
 
 
 2))
 
-![Screenshot 2022-10-12 at 11 49 51 AM](https://user-images.githubusercontent.com/25427227/195265322-48659d19-6572-4af2-ac4c-f8f27d7dd8ee.png)
+![Screenshot 2022-10-12 at 11 50 02 AM](https://user-images.githubusercontent.com/25427227/195265984-4cf26640-4f10-488c-b958-3701077c79d0.png)
+
+
+3))
+
+![Screenshot 2022-10-12 at 11 49 51 AM](https://user-images.githubusercontent.com/25427227/195266035-94b58e80-675a-4b77-932b-d6ddefe4ea52.png)
+
 
 
